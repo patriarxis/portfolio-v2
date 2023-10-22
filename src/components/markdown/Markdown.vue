@@ -32,9 +32,16 @@ defineProps<{
     outline: revert;
   }
 
-  img {
-    user-select: revert;
-    pointer-events: revert;
+  h {
+    color: var(--elevation-1);
+  }
+
+  p, li {
+    color: var(--elevation-2);
+  }
+
+  ul, ol {
+    padding-left: var(--spacing-2xl);
   }
 
   li {
@@ -42,11 +49,20 @@ defineProps<{
   }
 
   a {
-    color: revert;
+    color: var(--primary-5);
     outline: revert;
     text-decoration: revert;
     cursor: revert;
     display: revert;
+    transition: color var(--duration-1) var(--easing-1);
+
+    &:hover, &:focus-visible {
+      color: var(--primary-4);
+    }
+
+    &:active {
+      color: var(--primary-3);
+    }
   }
 
   button {
@@ -69,7 +85,16 @@ defineProps<{
   }
 
   hr {
-    border: revert;
+    width: 100%;
+    height: 1px;
+    background-color: var(--elevation-8);
+  }
+
+  blockquote {
+    margin: 0;
+    padding-left: var(--spacing-md);
+    border-left: 2px solid var(--elevation-8);
+    color: var(--elevation-3);
   }
 }
 </style>
