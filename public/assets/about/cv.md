@@ -3,7 +3,6 @@
 **UI/UX Designer | Front-End Developer**
 
 Athens, Greece  
-[(+30) 698 889 3913](tel:+306988893913)  
 [fotios.pechlivanis@gmail.com](mailto:fotios.pechlivanis@gmail.com)  
 [Portfolio](https://patriarxis.com) | [Dribbble](https://dribbble.com/patriarxis) | [GitHub](https://github.com/patriarxis) | [LinkedIn](https://linkedin.com/in/patriarxis)
 
@@ -60,12 +59,10 @@ _Associated with: [Kardias](#/projects/kardias), [Brioche](#/projects/brioche)_
 
 ## Tools
 
-### Design:
-
+> **Design**:
 > Figma, Photoshop, Illustrator, Framer, After Effects, Adobe XD, InDesign, Creative Cloud
 
-### Programming:
-
+> **Programming**:
 > HTML, CSS, JavaScript, React, Vue, Tailwind, SASS, htmx, Thymeleaf, Python, C, Git
 
 ---
