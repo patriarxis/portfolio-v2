@@ -74,4 +74,11 @@ import { projects } from "@content";
   padding-top: var(--spacing-xl);
   padding-bottom: var(--spacing-9xl);
 }
+
+.project-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
 </style>
