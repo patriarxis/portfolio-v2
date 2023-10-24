@@ -32,15 +32,23 @@ defineProps<{
     outline: revert;
   }
 
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-xs);
+  }
+
   h {
     color: var(--elevation-1);
   }
 
-  p, li {
+  p,
+  li {
     color: var(--elevation-2);
   }
 
-  ul, ol {
+  ul,
+  ol {
     padding-left: var(--spacing-2xl);
   }
 
@@ -56,7 +64,12 @@ defineProps<{
     display: revert;
     transition: color var(--duration-1) var(--easing-1);
 
-    &:hover, &:focus-visible {
+    strong {
+      color: inherit;
+    }
+
+    &:hover,
+    &:focus-visible {
       color: var(--primary-4);
     }
 
@@ -95,6 +108,20 @@ defineProps<{
     padding-left: var(--spacing-md);
     border-left: 2px solid var(--elevation-8);
     color: var(--elevation-3);
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong {
+      color: var(--elevation-1);
+    }
+  }
+
+  strong {
+    color: var(--elevation-1);
   }
 }
 </style>
