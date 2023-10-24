@@ -10,7 +10,7 @@ With a strong IT background and a passion for design, I seamlessly blend technol
 > Figma, Photoshop, Illustrator, Framer, After Effects, Adobe XD, InDesign, Creative Cloud
 
 > **Programming**:
-> HTML, CSS, JavaScript, jQuery, React, Vue.js, Bootstrap, Tailwind, SASS, Python, Java, C, Android, Git
+> HTML, CSS, JavaScript, React, Vue, Tailwind, SASS, htmx, Thymeleaf, Python, C, Git
 
 ## Get in touch:
 
