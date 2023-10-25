@@ -65,7 +65,7 @@ _Associated with: [Kardias](#/projects/kardias), [Brioche](#/projects/brioche)_
 > Figma, Photoshop, Illustrator, Framer, After Effects, Adobe XD, InDesign, Creative Cloud
 
 > **Programming**:
-> HTML, CSS, JavaScript, React, Vue, Tailwind, SASS, htmx, Thymeleaf, Python, C, Git
+> HTML, CSS, JavaScript, React, Vue, Tailwind, SASS, htmx, Thymeleaf, Python, Git
 
 ---
 
