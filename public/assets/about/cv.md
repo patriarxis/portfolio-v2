@@ -83,3 +83,10 @@ UI/UX Design Principles, User-Centered Design, Prototyping, User Research, Usabi
 4. [**Retrofolio**](#/projects/retrofolio): Retro pc style portfolio template.
 
 ---
+
+## Recommendations
+
+**Mary Tsetsekou** – Product Designer at Kaizen Gaming  
+_April 4, 2023, Mary managed Fotios directly_  
+
+Fotis is working as a Junior UI/UX Designer under my supervision at Blueground, and I have been thoroughly impressed with his skills and work ethic. He has been an instrumental part of our team, consistently delivering high-quality designs for our website. He has an excellent eye for detail and his ability to combine form and function in his designs is truly impressive. He is also proficient in using industry-standard design software Figma and Adobe Creative Suite. He is a great team player, always willing to help his colleagues and share his expertise. Fotis has shown a genuine interest in learning and keeping up with the latest design trends and technologies. He is constantly seeking to improve his skills and knowledge, which has contributed to his growth as a designer and the overall success of our team.
