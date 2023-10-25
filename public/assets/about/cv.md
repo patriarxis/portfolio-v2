@@ -18,7 +18,7 @@ Experienced hybrid designer and developer with a solid background in IT and a pa
 
 ## Work Experience
 
-### UI/UX Designer & Front-End Developer – Freelance (Oct 2019 - Oct 2021)
+### UI/UX Designer & Front-End Developer – Freelance (Oct 2019 - Oct 2021, Apr 2023 - Present)
 
 _Associated with: [Kardias](#/projects/kardias), [Brioche](#/projects/brioche)_
 
