@@ -27,14 +27,14 @@ const currentYear = new Date().getFullYear();
       </div>
 
       <div class="col social">
-        <a href="#">
-          <p class="p2-medium">&lt;example@email.com&gt;</p>
+        <a href="mailto:fotios.pechlivanis@email.com">
+          <p class="p2-medium">&lt;fotios.pechlivanis@email.com&gt;</p>
         </a>
-        <a href="#">
-          <p class="p2-medium">Link</p>
+        <a href="https://dribbble.com/patriarxis">
+          <p class="p2-medium">Dribbble</p>
         </a>
-        <a href="#">
-          <p class="p2-medium">Link</p>
+        <a href="https://dribbble.com/patriarxis">
+          <p class="p2-medium">GitHub</p>
         </a>
       </div>
     </div>
