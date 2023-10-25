@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <header><h1 class="p p2-semibold">Official Site</h1></header>
+  <header><h1 class="p p2-semibold">Patriarxis Official Site</h1></header>
 </template>
 
 <style scoped>

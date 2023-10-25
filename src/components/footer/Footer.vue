@@ -17,18 +17,18 @@ import { ThemeSelector, TimeAndDate, NoiseSelector } from "@components";
 
     <div class="row bottom">
       <div class="col copyrights">
-        <p class="p2">Copyright (c) 2023 Retrofolio by 3ll</p>
+        <p class="p2">Copyright (c) 2023 <a href="https://retrofolio.3ll.gr">Retrofolio</a> by <a href="https://3ll.gr">3ll</a></p>
       </div>
 
       <div class="col social">
-        <a href="mailto:example@email.com">
-          <p class="p2-medium">&lt;example@email.com&gt;</p>
+        <a href="mailto:fotios.pechlivanis@email.com">
+          <p class="p2-medium">&lt;fotios.pechlivanis@email.com&gt;</p>
         </a>
-        <a href="#">
-          <p class="p2-medium">Link</p>
+        <a href="https://dribbble.com/patriarxis">
+          <p class="p2-medium">Dribbble</p>
         </a>
-        <a href="#">
-          <p class="p2-medium">Link</p>
+        <a href="https://dribbble.com/patriarxis">
+          <p class="p2-medium">GitHub</p>
         </a>
       </div>
     </div>
