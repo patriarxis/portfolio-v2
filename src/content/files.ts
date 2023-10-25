@@ -15,8 +15,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/introduction/display-img.png",
-      src: "./assets/home/introduction/display-img.png",
+      src: "./assets/home/introduction/patriarxis-logo.png",
       metaInfo: {
         name: "Me",
         directory: "~/patriarxis/me.png",
