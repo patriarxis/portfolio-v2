@@ -78,6 +78,10 @@ footer {
 .time-and-date,
 .copyrights {
   padding: var(--spacing-2xs) var(--spacing-xs);
+
+  a {
+    display: inline;
+  }
 }
 
 .time-and-date,
