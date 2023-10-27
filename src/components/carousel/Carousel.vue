@@ -103,6 +103,7 @@ watchEffect(() => {
   border-radius: var(--radius-md);
   background-color: var(--primary-1);
   object-fit: cover;
+  border: 1px solid var(--elevation-8);
 }
 
 .carousel-imgs {
