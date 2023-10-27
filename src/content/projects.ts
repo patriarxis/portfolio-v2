@@ -111,6 +111,57 @@ export const projects: IProjects = {
       },
     },
   },
+  synoditis: {
+    name: "Synoditis",
+    card: {
+      name: "Synoditis",
+      description:
+        "Synoditis is a carpooling platform in Greece, developed by 3ll. It's a web and Android app that helps drivers and passengers share rides to save money. Drivers can add trip info, and passengers can book seats at the driver's price. The platform gives all trip details for a safe and easy carpooling experience.",
+      image: "/assets/projects/synoditis/images/synoditis-logo.png",
+      url: "/projects/synoditis",
+      tags: ["React", "JS", "Android"],
+    },
+    display: {
+      src: "/assets/projects/synoditis/readme.md",
+      metaInfo: {
+        name: "readme.md",
+        directory: "~/synoditis/readme.md",
+        type: "Markdown",
+        size: "11KB",
+        date: "22-10-2023",
+      },
+    },
+    carousel: {
+      images: [
+        "/assets/projects/synoditis/images/synoditis-illustration.jpg",
+        "/assets/projects/synoditis/images/synoditis-logo.png",
+        "/assets/projects/synoditis/images/synoditis-iconography.png",
+        "/assets/projects/synoditis/images/synoditis-ui-search.png",
+        "/assets/projects/synoditis/images/synoditis-ui-chat.png",
+        "/assets/projects/synoditis/images/synoditis-ui-trip.png",
+        "/assets/projects/synoditis/images/synoditis-ui-offer.png",
+        "/assets/projects/synoditis/images/synoditis-ui-results.png",
+      ],
+      metaInfo: {
+        name: "Images",
+        directory: "~/synoditis/images",
+        type: "Folder",
+        size: "12MB",
+        date: "22-10-2023",
+      },
+    },
+    warning: {
+      message: "** Look here for more info **",
+      links: [],
+      metaInfo: {
+        name: "Warning",
+        directory: "~/system/warning",
+        type: "System Function",
+        size: "8KB",
+        date: "22-10-2023",
+      },
+    },
+  },
   retrofolio: {
     name: "Retrofolio",
     card: {
@@ -165,53 +216,6 @@ export const projects: IProjects = {
     },
   },
   /* 
-  synoditis: {
-    name: "Synoditis",
-    card: {
-      name: "Synoditis",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Placerat ipsum volutpat porttitor nec ut augue. Tincidunt libero vestibulum massa ac sagittis suscipit bibendum viverra rutrum.",
-      image: "/assets/projects/project-1/images/img-1.png",
-      url: "/projects/synoditis",
-      tags: ["React", "JS", "Android"],
-    },
-    display: {
-      src: "/assets/projects/synoditis/readme.md",
-      metaInfo: {
-        name: "readme.md",
-        directory: "~/synoditis/readme.md",
-        type: "Markdown",
-        size: "11KB",
-        date: "22-10-2023",
-      },
-    },
-    carousel: {
-      images: [
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-      ],
-      metaInfo: {
-        name: "Images",
-        directory: "~/synoditis/images",
-        type: "Folder",
-        size: "12MB",
-        date: "22-10-2023",
-      },
-    },
-    warning: {
-      message: "** Look here for more info **",
-      links: [],
-      metaInfo: {
-        name: "Warning",
-        directory: "~/system/warning",
-        type: "System Function",
-        size: "8KB",
-        date: "22-10-2023",
-      },
-    },
-  },
   "blast-assessment-tool": {
     name: "Blast Assessment Tool",
     card: {
