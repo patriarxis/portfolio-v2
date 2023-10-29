@@ -166,10 +166,11 @@ export const projects: IProjects = {
     name: "Retrofolio",
     card: {
       name: "Retrofolio",
-      description: "",
+      description:
+        "Retrofolio is a unique and visually captivating portfolio template that seamlessly blends vintage aesthetics with modern design elements. The project aims to provide creative professionals with an elegant platform to showcase their talents and projects.",
       image: "/assets/projects/retrofolio/images/retrofolio-logo.webp",
       url: "/projects/retrofolio",
-      tags: ["Vue", "Typescript", "SCSS", "Vite"],
+      tags: ["Figma", "Illustrator", "Vue", "Typescript", "SCSS", "Vite"],
     },
     display: {
       src: "/assets/projects/retrofolio/readme.md",
@@ -198,12 +199,16 @@ export const projects: IProjects = {
       message: "** Look here for more info **",
       links: [
         {
-          name: "Website",
+          name: "Live template",
           url: "https://retrofolio.3ll.gr",
         },
         {
           name: "Github repo",
           url: "https://github.com/3ll-stdio/retrofolio",
+        },
+        {
+          name: "Visit 3ll",
+          url: "https://3ll.gr",
         },
       ],
       metaInfo: {
