@@ -4,26 +4,36 @@ import { useRoute } from "vue-router";
 
 const route = useRoute();
 
-console.log(route, route.name)
+console.log(route, route.name);
 
 const pageTitle = computed(() => {
   switch (route.path) {
     case "/home":
-      return "Retrofolio's Official Site";
+      return "Patriarxis' Official Site";
     case "/about":
-      return "Retrofolio's Official CV";
+      return "Patriarxis' Official CV";
     case "/projects":
-      return "Retrofolio's Official Projects";
-    case "/projects/project-1":
-      return "Project 1";
-    case "/projects/project-2":
-      return "Project 2";
-    case "/projects/project-3":
-      return "Project 3";
-    case "/projects/project-4":
-      return "Project 4";
+      return "Patriarxis' Official Projects";
+    case "/projects/kardias":
+      return "Project Kardias";
+    case "/projects/brioche":
+      return "Project Brioche";
+    case "/projects/synoditis":
+      return "Project Synoditis";
+    case "/projects/retrofolio":
+      return "Project Retrofolio";
+    case "/projects/blast-assessment-tool":
+      return "Project Blast Assessment Tool";
+    case "/projects/gg":
+      return "Project GG";
+    case "/projects/lmss":
+      return "Project LMSS";
+    case "/projects/graphit":
+      return "Project GraphIT";
+    case "/projects/3ll":
+      return "3ll stdio";
     default:
-      return "Retrofolio's Official Site";
+      return "Patriarxis' Official Site";
   }
 });
 </script>
