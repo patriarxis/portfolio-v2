@@ -15,11 +15,11 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/introduction/patriarxis-logo.png",
+      src: "./assets/home/introduction/patriarxis-logo.webp",
       metaInfo: {
         name: "Me",
-        directory: "~/patriarxis/me.png",
-        type: "PNG",
+        directory: "~/patriarxis/me.webp",
+        type: "WEBP",
         size: "1.1MB",
         date: "22-10-2023",
       },
@@ -45,11 +45,11 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/kardias/kardias-ui-suite.png",
+      src: "./assets/home/kardias/kardias-ui-suite.webp",
       metaInfo: {
         name: "Kardias UI",
-        directory: "~/kardias/kardias-ui-suite.png",
-        type: "PNG",
+        directory: "~/kardias/kardias-ui-suite.webp",
+        type: "WEBP",
         size: "1.6MB",
         date: "22-10-2023",
       },
@@ -74,11 +74,11 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/brioche/brioche-ui-home.png",
+      src: "./assets/home/brioche/brioche-ui-home.webp",
       metaInfo: {
         name: "Brioche UI",
-        directory: "~/brioche/brioche-ui-home.png",
-        type: "PNG",
+        directory: "~/brioche/brioche-ui-home.webp",
+        type: "WEBP",
         size: "1.9MB",
         date: "22-10-2023",
       },
@@ -103,11 +103,11 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/synoditis/synoditis-illustration.jpg",
+      src: "./assets/home/synoditis/synoditis-illustration.webp",
       metaInfo: {
         name: "Synoditis",
-        directory: "~/synoditis/synoditis-illustration.jpg",
-        type: "JPG",
+        directory: "~/synoditis/synoditis-illustration.webp",
+        type: "WEBP",
         size: "3.1MB",
         date: "22-10-2023",
       },

@@ -10,7 +10,7 @@
 
 We noticed a need in the Greek market for affordable transportation options. To address this gap, we developed a carpooling platform. Our goal was to help people share rides, saving money on gas and transportation costs. We started by creating an Android app, soon to be followed by a web version, ensuring accessibility for everyone, regardless of the device they use.
 
-![Synoditis logo](assets/projects/synoditis/images/synoditis-logo.png)
+![Synoditis logo](assets/projects/synoditis/images/synoditis-logo.webp)
 
 ---
 

@@ -13,7 +13,7 @@
 
 Our client commissioned us to create the branding and the website for Brioche, that should serve as a food delivery platform, allowing users to browse the menu, place orders, and track their deliveries, while showcasing all available items and providing essential information for the customers.
 
-![Brioche logo](assets/projects/brioche/images/brioche-logo-mockup.png)
+![Brioche logo](assets/projects/brioche/images/brioche-logo-mockup.webp)
 
 ---
 

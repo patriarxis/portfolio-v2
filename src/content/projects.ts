@@ -7,7 +7,7 @@ export const projects: IProjects = {
       name: "Kardias",
       description:
         "3LL team crafted Kardias Luxury Suites' brand identity & booking website, enhancing UX, refining design, and ensuring seamless integration with booking platforms. Expertly navigating challenges, the team orchestrated a seamless blend of creativity and technology, resulting in a visually stunning, user-friendly, and efficient booking engine, delighting both client and guests.",
-      image: "/assets/projects/kardias/images/kardias-logo-mockup.png",
+      image: "/assets/projects/kardias/images/kardias-logo-mockup.webp",
       url: "/projects/kardias",
       tags: ["React", "Tailwind", "Figma", "Illustrator", "Vite"],
     },
@@ -23,15 +23,15 @@ export const projects: IProjects = {
     },
     carousel: {
       images: [
-        "/assets/projects/kardias/images/kardias-bedroom-mockup.jpg",
-        "/assets/projects/kardias/images/kardias-business-card-gold.jpg",
-        "/assets/projects/kardias/images/kardias-iconography.png",
-        "/assets/projects/kardias/images/kardias-logo-mockup.png",
-        "/assets/projects/kardias/images/kardias-sign-mockup.jpg",
-        "/assets/projects/kardias/images/kardias-ui-booking.png",
-        "/assets/projects/kardias/images/kardias-ui-home.png",
-        "/assets/projects/kardias/images/kardias-ui-suite.png",
-        "/assets/projects/kardias/images/kardias-ui-suites.png",
+        "/assets/projects/kardias/images/kardias-bedroom-mockup.webp",
+        "/assets/projects/kardias/images/kardias-business-card-gold.webp",
+        "/assets/projects/kardias/images/kardias-iconography.webp",
+        "/assets/projects/kardias/images/kardias-logo-mockup.webp",
+        "/assets/projects/kardias/images/kardias-sign-mockup.webp",
+        "/assets/projects/kardias/images/kardias-ui-booking.webp",
+        "/assets/projects/kardias/images/kardias-ui-home.webp",
+        "/assets/projects/kardias/images/kardias-ui-suite.webp",
+        "/assets/projects/kardias/images/kardias-ui-suites.webp",
       ],
       metaInfo: {
         name: "Images",
@@ -64,7 +64,7 @@ export const projects: IProjects = {
       name: "Brioche",
       description:
         "Brioche entrusted us to develop their branding and static website, and now we're in the process of a significant update, transforming it into a food delivery platform.",
-      image: "/assets/projects/brioche/images/brioche-logo.png",
+      image: "/assets/projects/brioche/images/brioche-logo.webp",
       url: "/projects/brioche",
       tags: ["Thymleaf", "htmx", "HTML/CSS", "JS"],
     },
@@ -80,11 +80,11 @@ export const projects: IProjects = {
     },
     carousel: {
       images: [
-        "/assets/projects/brioche/images/brioche-ui-home.png",
-        "/assets/projects/brioche/images/brioche-counter-illustration.png",
-        "/assets/projects/brioche/images/brioche-coffee-cup.png",
-        "/assets/projects/brioche/images/brioche-logo-mockup.png",
-        "/assets/projects/brioche/images/brioche-prints.png",
+        "/assets/projects/brioche/images/brioche-ui-home.webp",
+        "/assets/projects/brioche/images/brioche-counter-illustration.webp",
+        "/assets/projects/brioche/images/brioche-coffee-cup.webp",
+        "/assets/projects/brioche/images/brioche-logo-mockup.webp",
+        "/assets/projects/brioche/images/brioche-prints.webp",
       ],
       metaInfo: {
         name: "Images",
@@ -117,7 +117,7 @@ export const projects: IProjects = {
       name: "Synoditis",
       description:
         "Synoditis is a carpooling platform in Greece, developed by 3ll. It's a web and Android app that helps drivers and passengers share rides to save money. Drivers can add trip info, and passengers can book seats at the driver's price. The platform gives all trip details for a safe and easy carpooling experience.",
-      image: "/assets/projects/synoditis/images/synoditis-logo.png",
+      image: "/assets/projects/synoditis/images/synoditis-logo.webp",
       url: "/projects/synoditis",
       tags: ["React", "JS", "Android"],
     },
@@ -133,14 +133,14 @@ export const projects: IProjects = {
     },
     carousel: {
       images: [
-        "/assets/projects/synoditis/images/synoditis-illustration.jpg",
-        "/assets/projects/synoditis/images/synoditis-logo.png",
-        "/assets/projects/synoditis/images/synoditis-iconography.png",
-        "/assets/projects/synoditis/images/synoditis-ui-search.png",
-        "/assets/projects/synoditis/images/synoditis-ui-chat.png",
-        "/assets/projects/synoditis/images/synoditis-ui-trip.png",
-        "/assets/projects/synoditis/images/synoditis-ui-offer.png",
-        "/assets/projects/synoditis/images/synoditis-ui-results.png",
+        "/assets/projects/synoditis/images/synoditis-illustration.webp",
+        "/assets/projects/synoditis/images/synoditis-logo.webp",
+        "/assets/projects/synoditis/images/synoditis-iconography.webp",
+        "/assets/projects/synoditis/images/synoditis-ui-search.webp",
+        "/assets/projects/synoditis/images/synoditis-ui-chat.webp",
+        "/assets/projects/synoditis/images/synoditis-ui-trip.webp",
+        "/assets/projects/synoditis/images/synoditis-ui-offer.webp",
+        "/assets/projects/synoditis/images/synoditis-ui-results.webp",
       ],
       metaInfo: {
         name: "Images",
@@ -167,7 +167,7 @@ export const projects: IProjects = {
     card: {
       name: "Retrofolio",
       description: "",
-      image: "/assets/projects/retrofolio/images/retrofolio-logo.png",
+      image: "/assets/projects/retrofolio/images/retrofolio-logo.webp",
       url: "/projects/retrofolio",
       tags: ["Vue", "Typescript", "SCSS", "Vite"],
     },
@@ -184,7 +184,7 @@ export const projects: IProjects = {
     carousel: {
       images: [
         "/assets/projects/retrofolio/images/retrofolio-ui-home.png",
-        "/assets/projects/retrofolio/images/retrofolio-logo.png",
+        "/assets/projects/retrofolio/images/retrofolio-logo.webp",
       ],
       metaInfo: {
         name: "Images",

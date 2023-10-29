@@ -33,7 +33,7 @@ const currentYear = new Date().getFullYear();
         <a href="https://dribbble.com/patriarxis">
           <p class="p2-medium">Dribbble</p>
         </a>
-        <a href="https://dribbble.com/patriarxis">
+        <a href="https://github.com/patriarxis">
           <p class="p2-medium">GitHub</p>
         </a>
       </div>
