@@ -5,7 +5,6 @@ export const files: IFiles = {
     name: "Introduction",
     display: {
       src: "./assets/home/introduction/readme.md",
-      src: "./assets/home/introduction/readme.md",
       metaInfo: {
         name: "Introduction",
         directory: "~/patriarxis/readme.md",
@@ -25,7 +24,6 @@ export const files: IFiles = {
       },
     },
     metaInfo: {
-      name: "Introduction",
       name: "Introduction",
       type: "Markdown",
       date: "22-10-2023",
