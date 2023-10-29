@@ -2,4 +2,4 @@
 
 Content coming soon!
 
-![Retrofolio logo](assets/projects/retrofolio/images/retrofolio-logo.png)
+![Retrofolio logo](assets/projects/retrofolio/images/retrofolio-logo.webp)

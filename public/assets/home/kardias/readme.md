@@ -15,7 +15,7 @@ Our client commisioned us to create the branding and the website for Kardias Lux
 
 On July 2023, our client requested a revamp for the website. We identified some pain-points in the design, such as color contrast and accessibility, and we updated some components and tools we used for the project.
 
-![Kardias logo](assets/projects/kardias/images/kardias-logo-mockup.png)
+![Kardias logo](assets/projects/kardias/images/kardias-logo-mockup.webp)
 
 ---
 
@@ -71,13 +71,19 @@ When coming up with ideas, the client let me be creative. I looked at the fancy 
 
 I spent a lot of time searching for a compelling story to incorporate into the logo, one that truly represented Kardias' objectives and values. A significant inspiration for the design came from Ancient Greece, particularly the concept of "xenios dias," which played a key role in shaping the creative direction.
 
+![Logo Concept 1](assets/projects/kardias/images/kardias-logo-concept-1.webp)
+_Kardias logo concept 1 presentation 2_
+
+![Logo Concept 2](assets/projects/kardias/images/kardias-logo-concept-2.webp)
+_Kardias logo concept 2 presentation 2_
+
 #### Weekly logo concept presentations
 
 I had regular weekly discussions with the client to stay aligned with their vision. The entire brand creation process spanned three weeks. During each of these weeks, I presented various logo concepts to the client. These presentations were crucial in guiding our direction moving forward. You can see them below:
 
-- [**Presentation 1**]()
-- [**Presentation 2**]()
-- [**Presentation 3**]()
+- [**Presentation 1**](assets/projects/kardias/presentations/presentation-1.pdf)
+- [**Presentation 2**](assets/projects/kardias/presentations/presentation-2.pdf)
+- [**Presentation 3**](assets/projects/kardias/presentations/presentation-3.pdf)
 
 #### Finalization
 

@@ -36,6 +36,7 @@ defineProps<{
     width: 100%;
     height: auto;
     border-radius: var(--radius-xs);
+    border: 1px solid var(--elevation-8);
   }
 
   h {

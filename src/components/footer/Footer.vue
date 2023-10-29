@@ -17,7 +17,11 @@ import { ThemeSelector, TimeAndDate, NoiseSelector } from "@components";
 
     <div class="row bottom">
       <div class="col copyrights">
-        <p class="p2">Copyright (c) 2023 <a href="https://retrofolio.3ll.gr">Retrofolio</a> by <a href="https://3ll.gr">3ll</a></p>
+        <p class="p2">
+          Copyright (c) 2023
+          <a href="https://retrofolio.3ll.gr">Retrofolio</a> by
+          <a href="https://3ll.gr">3ll</a>
+        </p>
       </div>
 
       <div class="col social">
@@ -27,7 +31,7 @@ import { ThemeSelector, TimeAndDate, NoiseSelector } from "@components";
         <a href="https://dribbble.com/patriarxis">
           <p class="p2-medium">Dribbble</p>
         </a>
-        <a href="https://dribbble.com/patriarxis">
+        <a href="https://github.com/patriarxis">
           <p class="p2-medium">GitHub</p>
         </a>
       </div>
