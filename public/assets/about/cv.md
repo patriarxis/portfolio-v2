@@ -18,7 +18,9 @@ Experienced hybrid designer and developer with a solid background in IT and a pa
 
 ## Work Experience
 
-### UI/UX Designer & Front-End Developer – Freelance (Oct 2019 - Oct 2021, Apr 2023 - Present)
+### Graphic Designer – FlexCar (Nov 2023 - Present)
+
+### UI/UX Designer & Front-End Developer – Freelance (Apr 2023 - Oct 2023)
 
 _Associated with: [Kardias](#/projects/kardias), [Brioche](#/projects/brioche)_
 
@@ -28,7 +30,6 @@ _Associated with: [Kardias](#/projects/kardias), [Brioche](#/projects/brioche)_
 - Designed intuitive and engaging user interfaces (UI) and user experiences (UX) for web and mobile applications, focusing on usability and visual appeal.
 - Conducted extensive research, ideation, and prototyping, resulting in innovative and user-centered designs meeting client objectives and user needs.
 - Utilized industry-standard tools and technologies, such as Adobe Creative Suite, Figma, Vite, React, Vue etc.
-- Oversaw projects from conception to completion, maintaining attention to detail and delivering high-quality designs exceeding client expectations.
 
 ### UI/UX Designer – Blueground (Sep 2022 - Apr 2023)
 
@@ -38,6 +39,8 @@ _Associated with: [Kardias](#/projects/kardias), [Brioche](#/projects/brioche)_
 - Implemented new features, revamped existing pages, and oversaw the development process to ensure accurate implementation and a cohesive brand image.
 - Streamlined design workflows by creating asset libraries, expanding the design system, and optimizing efficiency across multiple projects.
 - Collaborated closely with cross-functional teams, including CRM and content, for cohesive design and effective communication.
+
+### UI/UX Designer & Front-End Developer – Freelance (Oct 2019 - Oct 2021)
 
 ---
 
