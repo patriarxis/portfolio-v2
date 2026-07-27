@@ -2,12 +2,10 @@
 
 > A browser-only password generator — set length and character options, get a cryptographically secure password, check strength, and copy it. Nothing leaves the device.
 
-| | |
-|---|---|
-| **Role** | Designer & front-end |
-| **Type** | Personal tool |
-| **Stack** | Vue 3, TypeScript, Vite, Vitest, Phosphor Icons |
-| **Links** | [Live](https://cipher.patriarxis.com) · [GitHub](https://github.com/patriarxis/cipher) |
+**Role:** Designer & front-end
+**Type:** Personal tool
+**Stack:** Vue 3, TypeScript, Vite, Vitest, Phosphor Icons
+**Links:** [Live](https://cipher.patriarxis.com) · [GitHub](https://github.com/patriarxis/cipher)
 
 ---
 

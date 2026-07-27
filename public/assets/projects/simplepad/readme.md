@@ -2,12 +2,10 @@
 
 > A private rich-text notepad in the browser — open the URL, type, leave. Notes auto-save locally with Markdown shortcuts and a floating format toolbar.
 
-| | |
-|---|---|
-| **Role** | Designer & front-end |
-| **Type** | Personal tool |
-| **Stack** | Vue 3, TypeScript, Vite, TipTap, marked, lowlight, Phosphor Icons |
-| **Links** | [Live](https://simplepad.patriarxis.com) · [GitHub](https://github.com/patriarxis/simplepad) |
+**Role:** Designer & front-end
+**Type:** Personal tool
+**Stack:** Vue 3, TypeScript, Vite, TipTap, marked, lowlight, Phosphor Icons
+**Links:** [Live](https://simplepad.patriarxis.com) · [GitHub](https://github.com/patriarxis/simplepad)
 
 ---
 

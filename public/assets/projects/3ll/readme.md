@@ -2,12 +2,10 @@
 
 > Studio site for 3ll — a small design practice that builds tailor-made websites and applications. One page, no CMS: identity, live work, and a clear way to get in touch.
 
-| | |
-|---|---|
-| **Role** | Designer & front-end |
-| **Type** | Studio marketing site |
-| **Stack** | HTML, CSS, Google Fonts (Tektur, Zen Maru Gothic), SVG |
-| **Links** | [Live](https://3ll.gr) |
+**Role:** Designer & front-end
+**Type:** Studio marketing site
+**Stack:** HTML, CSS, Google Fonts (Tektur, Zen Maru Gothic), SVG
+**Links:** [Live](https://3ll.gr)
 
 ---
 

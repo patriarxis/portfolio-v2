@@ -2,12 +2,10 @@
 
 > A full-screen promotional prize-wheel experience for FlexCar events — guests spin for weighted prizes on a branded canvas UI; operators tune the catalog without touching code.
 
-| | |
-|---|---|
-| **Role** | Designer & front-end |
-| **Type** | Marketing experience |
-| **Stack** | TypeScript, Vite, Konva, Dragula, Web Audio API |
-| **Links** | [Live](https://spinzy.patriarxis.com) · [GitHub](https://github.com/patriarxis/spinzy) |
+**Role:** Designer & front-end
+**Type:** Marketing experience
+**Stack:** TypeScript, Vite, Konva, Dragula, Web Audio API
+**Links:** [Live](https://spinzy.patriarxis.com) · [GitHub](https://github.com/patriarxis/spinzy)
 
 ---
 

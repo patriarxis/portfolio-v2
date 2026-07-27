@@ -2,12 +2,10 @@
 
 > An interactive map for browsing geolocated surface texture scans — inspect place-tied PBR references on an Athens map and download map packs at multiple resolutions.
 
-| | |
-|---|---|
-| **Role** | Front-end / UI |
-| **Type** | Interactive map product |
-| **Stack** | React 19, TypeScript, Vite, Leaflet, react-leaflet, lucide-react, Sass |
-| **Links** | [GitHub](https://github.com/patriarxis/thats-a-scan) |
+**Role:** Front-end / UI
+**Type:** Interactive map product
+**Stack:** React 19, TypeScript, Vite, Leaflet, react-leaflet, lucide-react, Sass
+**Links:** [GitHub](https://github.com/patriarxis/thats-a-scan)
 
 ---
 

@@ -2,12 +2,10 @@
 
 > A portfolio website template from 3ll — projects live as files in a retro PC-style interface with windows, a file explorer, markdown write-ups, and themeable chrome.
 
-| | |
-|---|---|
-| **Role** | Designer & front-end |
-| **Type** | Portfolio template |
-| **Stack** | Vue 3, TypeScript, Vite, Vue Router, SCSS, marked, axios |
-| **Links** | [Live](https://retrofolio.3ll.gr) |
+**Role:** Designer & front-end
+**Type:** Portfolio template
+**Stack:** Vue 3, TypeScript, Vite, Vue Router, SCSS, marked, axios
+**Links:** [Live](https://retrofolio.3ll.gr)
 
 ---
 
