@@ -6,7 +6,7 @@ export const fileExplorer = {
     name: "Projects",
     directory: "~/projects",
     type: "Folder",
-    size: "5.3KB",
-    date: "22-10-2023",
+    size: "9KB",
+    date: "27-07-2026",
   },
 };

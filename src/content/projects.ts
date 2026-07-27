@@ -1,52 +1,50 @@
 import { IProjects } from "@domain";
 
 export const projects: IProjects = {
-  kardias: {
-    name: "Kardias",
+  signet: {
+    name: "Signet",
     card: {
-      name: "Kardias",
+      name: "Signet",
       description:
-        "3LL team crafted Kardias Luxury Suites' brand identity & booking website, enhancing UX, refining design, and ensuring seamless integration with booking platforms. Expertly navigating challenges, the team orchestrated a seamless blend of creativity and technology, resulting in a visually stunning, user-friendly, and efficient booking engine, delighting both client and guests.",
-      image: "/assets/projects/kardias/images/kardias-logo-mockup.webp",
-      url: "/projects/kardias",
-      tags: ["React", "Tailwind", "Figma", "Illustrator", "Vite"],
+        "A local-first email signature library — pick a template, fill your details, and copy HTML that pastes cleanly into Outlook, Gmail, and CRM senders.",
+      image: "/assets/projects/signet/images/signet-desktop.png",
+      url: "/projects/signet",
+      tags: ["Vue 3", "TypeScript", "Vite", "CodeMirror"],
     },
     display: {
-      src: "/assets/projects/kardias/readme.md",
+      src: "/assets/projects/signet/readme.md",
       metaInfo: {
         name: "readme.md",
-        directory: "~/kardias/readme.md",
+        directory: "~/signet/readme.md",
         type: "Markdown",
-        size: "14KB",
-        date: "22-10-2023",
+        size: "3KB",
+        date: "27-07-2026",
       },
     },
     carousel: {
       images: [
-        "/assets/projects/kardias/images/kardias-bedroom-mockup.webp",
-        "/assets/projects/kardias/images/kardias-business-card-gold.webp",
-        "/assets/projects/kardias/images/kardias-iconography.webp",
-        "/assets/projects/kardias/images/kardias-logo-mockup.webp",
-        "/assets/projects/kardias/images/kardias-sign-mockup.webp",
-        "/assets/projects/kardias/images/kardias-ui-booking.webp",
-        "/assets/projects/kardias/images/kardias-ui-home.webp",
-        "/assets/projects/kardias/images/kardias-ui-suite.webp",
-        "/assets/projects/kardias/images/kardias-ui-suites.webp",
+        "/assets/projects/signet/images/signet-desktop.png",
+        "/assets/projects/signet/images/signet-tablet.png",
+        "/assets/projects/signet/images/signet-phone.png",
       ],
       metaInfo: {
         name: "Images",
-        directory: "~/kardias/images",
+        directory: "~/signet/images",
         type: "Folder",
-        size: "6.5MB",
-        date: "22-10-2023",
+        size: "300KB",
+        date: "27-07-2026",
       },
     },
     warning: {
       message: "** Look here for more info **",
       links: [
         {
-          name: "Live Website",
-          url: "https://dev.kardias.gr",
+          name: "Live",
+          url: "https://signet.patriarxis.com",
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/patriarxis/signet",
         },
       ],
       metaInfo: {
@@ -54,52 +52,53 @@ export const projects: IProjects = {
         directory: "~/system/warning",
         type: "System Function",
         size: "8KB",
-        date: "22-10-2023",
+        date: "27-07-2026",
       },
     },
   },
-  brioche: {
-    name: "Brioche",
+  cipher: {
+    name: "Cipher",
     card: {
-      name: "Brioche",
+      name: "Cipher",
       description:
-        "Brioche entrusted us to develop their branding and static website, and now we're in the process of a significant update, transforming it into a food delivery platform.",
-      image: "/assets/projects/brioche/images/brioche-logo.webp",
-      url: "/projects/brioche",
-      tags: ["Thymleaf", "htmx", "HTML/CSS", "JS"],
+        "A browser-only password generator — set length and character options, get a cryptographically secure password, check strength, and copy it. Nothing leaves the device.",
+      image: "/assets/projects/cipher/images/cipher-icon.png",
+      url: "/projects/cipher",
+      tags: ["Vue 3", "TypeScript", "Vite", "Vitest"],
     },
     display: {
-      src: "/assets/projects/brioche/readme.md",
+      src: "/assets/projects/cipher/readme.md",
       metaInfo: {
         name: "readme.md",
-        directory: "~/brioche/readme.md",
+        directory: "~/cipher/readme.md",
         type: "Markdown",
-        size: "13KB",
-        date: "22-10-2023",
+        size: "2KB",
+        date: "27-07-2026",
       },
     },
     carousel: {
       images: [
-        "/assets/projects/brioche/images/brioche-ui-home.webp",
-        "/assets/projects/brioche/images/brioche-counter-illustration.webp",
-        "/assets/projects/brioche/images/brioche-coffee-cup.webp",
-        "/assets/projects/brioche/images/brioche-logo-mockup.webp",
-        "/assets/projects/brioche/images/brioche-prints.webp",
+        "/assets/projects/cipher/images/cipher-icon.png",
+        "/assets/projects/cipher/images/cipher-apple-touch.png",
       ],
       metaInfo: {
         name: "Images",
-        directory: "~/brioche/images",
+        directory: "~/cipher/images",
         type: "Folder",
-        size: "5MB",
-        date: "22-10-2023",
+        size: "20KB",
+        date: "27-07-2026",
       },
     },
     warning: {
       message: "** Look here for more info **",
       links: [
         {
-          name: "Static Website",
-          url: "https://briochecoffee.gr",
+          name: "Live",
+          url: "https://cipher.patriarxis.com",
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/patriarxis/cipher",
         },
       ],
       metaInfo: {
@@ -107,58 +106,221 @@ export const projects: IProjects = {
         directory: "~/system/warning",
         type: "System Function",
         size: "8KB",
-        date: "22-10-2023",
+        date: "27-07-2026",
       },
     },
   },
-  synoditis: {
-    name: "Synoditis",
+  simplepad: {
+    name: "SimplePad",
     card: {
-      name: "Synoditis",
+      name: "SimplePad",
       description:
-        "Synoditis is a carpooling platform in Greece, developed by 3ll. It's a web and Android app that helps drivers and passengers share rides to save money. Drivers can add trip info, and passengers can book seats at the driver's price. The platform gives all trip details for a safe and easy carpooling experience.",
-      image: "/assets/projects/synoditis/images/synoditis-logo.webp",
-      url: "/projects/synoditis",
-      tags: ["React", "JS", "Android"],
+        "A private rich-text notepad in the browser — open the URL, type, leave. Notes auto-save locally with Markdown shortcuts and a floating format toolbar.",
+      image: "/assets/projects/simplepad/images/simplepad-icon.png",
+      url: "/projects/simplepad",
+      tags: ["Vue 3", "TypeScript", "Vite", "TipTap"],
     },
     display: {
-      src: "/assets/projects/synoditis/readme.md",
+      src: "/assets/projects/simplepad/readme.md",
       metaInfo: {
         name: "readme.md",
-        directory: "~/synoditis/readme.md",
+        directory: "~/simplepad/readme.md",
         type: "Markdown",
-        size: "11KB",
-        date: "22-10-2023",
+        size: "2KB",
+        date: "27-07-2026",
       },
     },
     carousel: {
       images: [
-        "/assets/projects/synoditis/images/synoditis-illustration.webp",
-        "/assets/projects/synoditis/images/synoditis-logo.webp",
-        "/assets/projects/synoditis/images/synoditis-iconography.webp",
-        "/assets/projects/synoditis/images/synoditis-ui-search.webp",
-        "/assets/projects/synoditis/images/synoditis-ui-chat.webp",
-        "/assets/projects/synoditis/images/synoditis-ui-trip.webp",
-        "/assets/projects/synoditis/images/synoditis-ui-offer.webp",
-        "/assets/projects/synoditis/images/synoditis-ui-results.webp",
+        "/assets/projects/simplepad/images/simplepad-icon.png",
+        "/assets/projects/simplepad/images/simplepad-apple-touch.png",
       ],
       metaInfo: {
         name: "Images",
-        directory: "~/synoditis/images",
+        directory: "~/simplepad/images",
         type: "Folder",
-        size: "12MB",
-        date: "22-10-2023",
+        size: "20KB",
+        date: "27-07-2026",
       },
     },
     warning: {
       message: "** Look here for more info **",
-      links: [],
+      links: [
+        {
+          name: "Live",
+          url: "https://simplepad.patriarxis.com",
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/patriarxis/simplepad",
+        },
+      ],
       metaInfo: {
         name: "Warning",
         directory: "~/system/warning",
         type: "System Function",
         size: "8KB",
-        date: "22-10-2023",
+        date: "27-07-2026",
+      },
+    },
+  },
+  favigo: {
+    name: "Favigo",
+    card: {
+      name: "Favigo",
+      description:
+        "Drop a PNG, ICO, SVG, or WebP and see how it reads at common sizes — and in the real browser tab — before you ship it.",
+      image: "/assets/projects/favigo/images/favigo-icon.png",
+      url: "/projects/favigo",
+      tags: ["Vue 3", "TypeScript", "Vite"],
+    },
+    display: {
+      src: "/assets/projects/favigo/readme.md",
+      metaInfo: {
+        name: "readme.md",
+        directory: "~/favigo/readme.md",
+        type: "Markdown",
+        size: "2KB",
+        date: "27-07-2026",
+      },
+    },
+    carousel: {
+      images: [
+        "/assets/projects/favigo/images/favigo-icon.png",
+        "/assets/projects/favigo/images/favigo-apple-touch.png",
+      ],
+      metaInfo: {
+        name: "Images",
+        directory: "~/favigo/images",
+        type: "Folder",
+        size: "20KB",
+        date: "27-07-2026",
+      },
+    },
+    warning: {
+      message: "** Look here for more info **",
+      links: [
+        {
+          name: "Live",
+          url: "https://favigo.patriarxis.com",
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/patriarxis/favigo",
+        },
+      ],
+      metaInfo: {
+        name: "Warning",
+        directory: "~/system/warning",
+        type: "System Function",
+        size: "8KB",
+        date: "27-07-2026",
+      },
+    },
+  },
+  spinzy: {
+    name: "Spinzy",
+    card: {
+      name: "Spinzy",
+      description:
+        "A full-screen promotional prize-wheel experience for FlexCar events — guests spin for weighted prizes on a branded canvas UI; operators tune the catalog without touching code.",
+      image: "/assets/projects/spinzy/images/spinzy-suv-runner.png",
+      url: "/projects/spinzy",
+      tags: ["TypeScript", "Vite", "Konva", "Web Audio"],
+    },
+    display: {
+      src: "/assets/projects/spinzy/readme.md",
+      metaInfo: {
+        name: "readme.md",
+        directory: "~/spinzy/readme.md",
+        type: "Markdown",
+        size: "2KB",
+        date: "27-07-2026",
+      },
+    },
+    carousel: {
+      images: [
+        "/assets/projects/spinzy/images/spinzy-suv-runner.png",
+        "/assets/projects/spinzy/images/spinzy-wheel-suv.webp",
+        "/assets/projects/spinzy/images/spinzy-prize-suv.webp",
+        "/assets/projects/spinzy/images/spinzy-prize-mystery-box.webp",
+        "/assets/projects/spinzy/images/spinzy-prize-voucher.webp",
+      ],
+      metaInfo: {
+        name: "Images",
+        directory: "~/spinzy/images",
+        type: "Folder",
+        size: "140KB",
+        date: "27-07-2026",
+      },
+    },
+    warning: {
+      message: "** Look here for more info **",
+      links: [
+        {
+          name: "Live",
+          url: "https://spinzy.patriarxis.com",
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/patriarxis/spinzy",
+        },
+      ],
+      metaInfo: {
+        name: "Warning",
+        directory: "~/system/warning",
+        type: "System Function",
+        size: "8KB",
+        date: "27-07-2026",
+      },
+    },
+  },
+  "thats-a-scan": {
+    name: "That's a Scan",
+    card: {
+      name: "That's a Scan",
+      description:
+        "An interactive map for browsing geolocated surface texture scans — inspect place-tied PBR references on an Athens map and download map packs at multiple resolutions.",
+      image: "/assets/projects/thats-a-scan/images/thats-a-scan-mark.svg",
+      url: "/projects/thats-a-scan",
+      tags: ["React", "TypeScript", "Vite", "Leaflet"],
+    },
+    display: {
+      src: "/assets/projects/thats-a-scan/readme.md",
+      metaInfo: {
+        name: "readme.md",
+        directory: "~/thats-a-scan/readme.md",
+        type: "Markdown",
+        size: "2KB",
+        date: "27-07-2026",
+      },
+    },
+    carousel: {
+      images: [
+        "/assets/projects/thats-a-scan/images/thats-a-scan-mark.svg",
+      ],
+      metaInfo: {
+        name: "Images",
+        directory: "~/thats-a-scan/images",
+        type: "Folder",
+        size: "1KB",
+        date: "27-07-2026",
+      },
+    },
+    warning: {
+      message: "** Look here for more info **",
+      links: [
+        {
+          name: "GitHub",
+          url: "https://github.com/patriarxis/thats-a-scan",
+        },
+      ],
+      metaInfo: {
+        name: "Warning",
+        directory: "~/system/warning",
+        type: "System Function",
+        size: "8KB",
+        date: "27-07-2026",
       },
     },
   },
@@ -167,10 +329,10 @@ export const projects: IProjects = {
     card: {
       name: "Retrofolio",
       description:
-        "Retrofolio is a unique and visually captivating portfolio template that seamlessly blends vintage aesthetics with modern design elements. The project aims to provide creative professionals with an elegant platform to showcase their talents and projects.",
-      image: "/assets/projects/retrofolio/images/retrofolio-logo.webp",
+        "A portfolio website template from 3ll — projects live as files in a retro PC-style interface with windows, a file explorer, markdown write-ups, and themeable chrome.",
+      image: "/assets/projects/retrofolio/images/retrofolio-ui-home.png",
       url: "/projects/retrofolio",
-      tags: ["Figma", "Illustrator", "Vue", "Typescript", "SCSS", "Vite"],
+      tags: ["Vue 3", "TypeScript", "Vite", "SCSS"],
     },
     display: {
       src: "/assets/projects/retrofolio/readme.md",
@@ -178,8 +340,8 @@ export const projects: IProjects = {
         name: "readme.md",
         directory: "~/retrofolio/readme.md",
         type: "Markdown",
-        size: "11KB",
-        date: "22-10-2023",
+        size: "2KB",
+        date: "27-07-2026",
       },
     },
     carousel: {
@@ -191,23 +353,67 @@ export const projects: IProjects = {
         name: "Images",
         directory: "~/retrofolio/images",
         type: "Folder",
-        size: "12MB",
-        date: "22-10-2023",
+        size: "1.5MB",
+        date: "27-07-2026",
       },
     },
     warning: {
       message: "** Look here for more info **",
       links: [
         {
-          name: "Live template",
+          name: "Live",
           url: "https://retrofolio.3ll.gr",
         },
+      ],
+      metaInfo: {
+        name: "Warning",
+        directory: "~/system/warning",
+        type: "System Function",
+        size: "8KB",
+        date: "27-07-2026",
+      },
+    },
+  },
+  "3ll": {
+    name: "3ll",
+    card: {
+      name: "3ll",
+      description:
+        "Studio site for 3ll — a small design practice that builds tailor-made websites and applications. One page, no CMS: identity, live work, and a clear way to get in touch.",
+      image: "/assets/projects/3ll/images/3ll-meta-home.png",
+      url: "/projects/3ll",
+      tags: ["HTML", "CSS", "SVG"],
+    },
+    display: {
+      src: "/assets/projects/3ll/readme.md",
+      metaInfo: {
+        name: "readme.md",
+        directory: "~/3ll/readme.md",
+        type: "Markdown",
+        size: "2KB",
+        date: "27-07-2026",
+      },
+    },
+    carousel: {
+      images: [
+        "/assets/projects/3ll/images/3ll-meta-home.png",
+        "/assets/projects/3ll/images/3ll-product-retrofolio.webp",
+        "/assets/projects/3ll/images/3ll-product-kardias.webp",
+        "/assets/projects/3ll/images/3ll-mark.svg",
+      ],
+      metaInfo: {
+        name: "Images",
+        directory: "~/3ll/images",
+        type: "Folder",
+        size: "1.2MB",
+        date: "27-07-2026",
+      },
+    },
+    warning: {
+      message: "** Look here for more info **",
+      links: [
         {
-          name: "Github repo",
-          url: "https://github.com/3ll-stdio/retrofolio",
-        },
-        {
-          name: "Visit 3ll",
+          name: "Live",
           url: "https://3ll.gr",
         },
       ],
@@ -216,240 +422,8 @@ export const projects: IProjects = {
         directory: "~/system/warning",
         type: "System Function",
         size: "8KB",
-        date: "22-10-2023",
+        date: "27-07-2026",
       },
     },
   },
-  /* 
-  "blast-assessment-tool": {
-    name: "Blast Assessment Tool",
-    card: {
-      name: "Blast Assessment Tool",
-      description: "European commission.",
-      image: "/assets/projects/project-1/images/img-1.png",
-      url: "/projects/blast-assessment-tool",
-      tags: ["HTML/CSS", "JS", "ECL v3"],
-    },
-    display: {
-      src: "/assets/projects/blast-assessment-tool/readme.md",
-      metaInfo: {
-        name: "readme.md",
-        directory: "~/blast-assessment-tool/readme.md",
-        type: "Markdown",
-        size: "11KB",
-        date: "22-10-2023",
-      },
-    },
-    carousel: {
-      images: [
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-      ],
-      metaInfo: {
-        name: "Images",
-        directory: "~/blast-assessment-tool/images",
-        type: "Folder",
-        size: "12MB",
-        date: "22-10-2023",
-      },
-    },
-    warning: {
-      message: "** Look here for more info **",
-      links: [],
-      metaInfo: {
-        name: "Warning",
-        directory: "~/system/warning",
-        type: "System Function",
-        size: "8KB",
-        date: "22-10-2023",
-      },
-    },
-  },
-  gg: {
-    name: "GG",
-    card: {
-      name: "GG",
-      description: "gg",
-      image: "/assets/projects/project-1/images/img-1.png",
-      url: "/projects/gg",
-      tags: ["UI/UX, Figma, Illustrator"],
-    },
-    display: {
-      src: "/assets/projects/gg/readme.md",
-      metaInfo: {
-        name: "readme.md",
-        directory: "~/gg/readme.md",
-        type: "Markdown",
-        size: "11KB",
-        date: "22-10-2023",
-      },
-    },
-    carousel: {
-      images: [
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-      ],
-      metaInfo: {
-        name: "Images",
-        directory: "~/gg/images",
-        type: "Folder",
-        size: "12MB",
-        date: "22-10-2023",
-      },
-    },
-    warning: {
-      message: "** Look here for more info **",
-      links: [],
-      metaInfo: {
-        name: "Warning",
-        directory: "~/system/warning",
-        type: "System Function",
-        size: "8KB",
-        date: "22-10-2023",
-      },
-    },
-  },
-  lmss: {
-    name: "LMSS",
-    card: {
-      name: "LMSS",
-      description: "lmss",
-      image: "/assets/projects/project-1/images/img-1.png",
-      url: "/projects/lmss",
-      tags: ["UI/UX, Figma, Illustrator"],
-    },
-    display: {
-      src: "/assets/projects/lmss/readme.md",
-      metaInfo: {
-        name: "readme.md",
-        directory: "~/lmss/readme.md",
-        type: "Markdown",
-        size: "11KB",
-        date: "22-10-2023",
-      },
-    },
-    carousel: {
-      images: [
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-      ],
-      metaInfo: {
-        name: "Images",
-        directory: "~/lmss/images",
-        type: "Folder",
-        size: "12MB",
-        date: "22-10-2023",
-      },
-    },
-    warning: {
-      message: "** Look here for more info **",
-      links: [],
-      metaInfo: {
-        name: "Warning",
-        directory: "~/system/warning",
-        type: "System Function",
-        size: "8KB",
-        date: "22-10-2023",
-      },
-    },
-  },
-  graphit: {
-    name: "GraphIT",
-    card: {
-      name: "GraphIT",
-      description: "graphit",
-      image: "/assets/projects/project-1/images/img-1.png",
-      url: "/projects/graphit",
-      tags: ["UI/UX, Figma, Illustrator"],
-    },
-    display: {
-      src: "/assets/projects/graphit/readme.md",
-      metaInfo: {
-        name: "readme.md",
-        directory: "~/graphit/readme.md",
-        type: "Markdown",
-        size: "11KB",
-        date: "22-10-2023",
-      },
-    },
-    carousel: {
-      images: [
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-      ],
-      metaInfo: {
-        name: "Images",
-        directory: "~/graphit/images",
-        type: "Folder",
-        size: "12MB",
-        date: "22-10-2023",
-      },
-    },
-    warning: {
-      message: "** Look here for more info **",
-      links: [],
-      metaInfo: {
-        name: "Warning",
-        directory: "~/system/warning",
-        type: "System Function",
-        size: "8KB",
-        date: "22-10-2023",
-      },
-    },
-  },
-  "3ll": {
-    name: "3ll",
-    card: {
-      name: "3ll",
-      description: "3ll",
-      image: "/assets/projects/project-1/images/img-1.png",
-      url: "/projects/3ll",
-      tags: ["UI/UX, Figma, Illustrator"],
-    },
-    display: {
-      src: "/assets/projects/3ll/readme.md",
-      metaInfo: {
-        name: "readme.md",
-        directory: "~/3ll/readme.md",
-        type: "Markdown",
-        size: "11KB",
-        date: "22-10-2023",
-      },
-    },
-    carousel: {
-      images: [
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-        "/assets/projects/project-3/images/img-1.png",
-      ],
-      metaInfo: {
-        name: "Images",
-        directory: "~/3ll/images",
-        type: "Folder",
-        size: "12MB",
-        date: "22-10-2023",
-      },
-    },
-    warning: {
-      message: "** Look here for more info **",
-      links: [],
-      metaInfo: {
-        name: "Warning",
-        directory: "~/system/warning",
-        type: "System Function",
-        size: "8KB",
-        date: "22-10-2023",
-      },
-    },
-  },
-   */
 };

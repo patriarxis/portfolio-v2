@@ -10,7 +10,11 @@ With a strong IT background and a passion for design, I seamlessly blend technol
 > Figma, Photoshop, Illustrator, Framer, After Effects, Adobe XD, InDesign, Creative Cloud
 
 > **Programming**:
-> HTML, CSS, JavaScript, React, Vue, Tailwind, SASS, htmx, Thymeleaf, Python, Git
+> HTML, CSS, JavaScript, TypeScript, React, Vue, Vite, Tailwind, SASS, TipTap, Leaflet, Konva, Python, Git
+
+## Featured work
+
+Personal tools like Signet, Cipher, SimplePad, and Favigo; event experiences like Spinzy; and studio work including Retrofolio and the 3ll site.
 
 ## Get in touch:
 

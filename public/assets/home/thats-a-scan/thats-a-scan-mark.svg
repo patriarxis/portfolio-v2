@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="That's a Scan">
+  <rect width="128" height="128" rx="24" fill="#1a1f2e"/>
+  <circle cx="64" cy="54" r="28" fill="none" stroke="#7dd3c0" stroke-width="6"/>
+  <path d="M64 82 L64 104" stroke="#7dd3c0" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="64" cy="54" r="8" fill="#7dd3c0"/>
+  <path d="M28 108 H100" stroke="#3d4659" stroke-width="4" stroke-linecap="round"/>
+</svg>

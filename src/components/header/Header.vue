@@ -14,24 +14,22 @@ const pageTitle = computed(() => {
       return "Patriarxis' Official CV";
     case "/projects":
       return "Patriarxis' Official Projects";
-    case "/projects/kardias":
-      return "Project Kardias";
-    case "/projects/brioche":
-      return "Project Brioche";
-    case "/projects/synoditis":
-      return "Project Synoditis";
+    case "/projects/signet":
+      return "Project Signet";
+    case "/projects/cipher":
+      return "Project Cipher";
+    case "/projects/simplepad":
+      return "Project SimplePad";
+    case "/projects/favigo":
+      return "Project Favigo";
+    case "/projects/spinzy":
+      return "Project Spinzy";
+    case "/projects/thats-a-scan":
+      return "Project That's a Scan";
     case "/projects/retrofolio":
       return "Project Retrofolio";
-    case "/projects/blast-assessment-tool":
-      return "Project Blast Assessment Tool";
-    case "/projects/gg":
-      return "Project GG";
-    case "/projects/lmss":
-      return "Project LMSS";
-    case "/projects/graphit":
-      return "Project GraphIT";
     case "/projects/3ll":
-      return "3ll stdio";
+      return "Project 3ll";
     default:
       return "Patriarxis' Official Site";
   }

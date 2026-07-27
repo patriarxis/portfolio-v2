@@ -6,7 +6,7 @@ Athens, Greece
 [fotios.pechlivanis@gmail.com](mailto:fotios.pechlivanis@gmail.com)  
 [Portfolio](https://patriarxis.com) | [Dribbble](https://dribbble.com/patriarxis) | [GitHub](https://github.com/patriarxis) | [LinkedIn](https://linkedin.com/in/patriarxis)
 
-[Download CV](cv/fotios-pechlivanis-cv.pdf)
+[Download CV](cv/fotios-pechlivanis-cv-v4.pdf)
 
 ---
 
