@@ -4,7 +4,7 @@ export const files: IFiles = {
   introduction: {
     name: "Introduction",
     display: {
-      src: "./assets/home/introduction/readme.md",
+      src: "/assets/home/introduction/readme.md",
       metaInfo: {
         name: "Introduction",
         directory: "~/patriarxis/readme.md",
@@ -14,7 +14,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/introduction/patriarxis-logo.webp",
+      src: "/assets/home/introduction/patriarxis-logo.webp",
       metaInfo: {
         name: "Me",
         directory: "~/patriarxis/me.webp",
@@ -33,7 +33,7 @@ export const files: IFiles = {
   signet: {
     name: "Signet",
     display: {
-      src: "./assets/home/signet/readme.md",
+      src: "/assets/home/signet/readme.md",
       metaInfo: {
         name: "readme.md",
         directory: "~/signet/readme.md",
@@ -43,7 +43,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/signet/signet-desktop.png",
+      src: "/assets/home/signet/signet-desktop.png",
       metaInfo: {
         name: "Signet UI",
         directory: "~/signet/signet-desktop.png",
@@ -62,7 +62,7 @@ export const files: IFiles = {
   cipher: {
     name: "Cipher",
     display: {
-      src: "./assets/home/cipher/readme.md",
+      src: "/assets/home/cipher/readme.md",
       metaInfo: {
         name: "readme.md",
         directory: "~/cipher/readme.md",
@@ -72,7 +72,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/cipher/cipher-icon.png",
+      src: "/assets/home/cipher/cipher-icon.png",
       metaInfo: {
         name: "Cipher icon",
         directory: "~/cipher/cipher-icon.png",
@@ -91,7 +91,7 @@ export const files: IFiles = {
   simplepad: {
     name: "SimplePad",
     display: {
-      src: "./assets/home/simplepad/readme.md",
+      src: "/assets/home/simplepad/readme.md",
       metaInfo: {
         name: "readme.md",
         directory: "~/simplepad/readme.md",
@@ -101,7 +101,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/simplepad/simplepad-icon.png",
+      src: "/assets/home/simplepad/simplepad-icon.png",
       metaInfo: {
         name: "SimplePad icon",
         directory: "~/simplepad/simplepad-icon.png",
@@ -120,7 +120,7 @@ export const files: IFiles = {
   favigo: {
     name: "Favigo",
     display: {
-      src: "./assets/home/favigo/readme.md",
+      src: "/assets/home/favigo/readme.md",
       metaInfo: {
         name: "readme.md",
         directory: "~/favigo/readme.md",
@@ -130,7 +130,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/favigo/favigo-icon.png",
+      src: "/assets/home/favigo/favigo-icon.png",
       metaInfo: {
         name: "Favigo icon",
         directory: "~/favigo/favigo-icon.png",
@@ -149,7 +149,7 @@ export const files: IFiles = {
   spinzy: {
     name: "Spinzy",
     display: {
-      src: "./assets/home/spinzy/readme.md",
+      src: "/assets/home/spinzy/readme.md",
       metaInfo: {
         name: "readme.md",
         directory: "~/spinzy/readme.md",
@@ -159,7 +159,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/spinzy/spinzy-suv-runner.png",
+      src: "/assets/home/spinzy/spinzy-suv-runner.png",
       metaInfo: {
         name: "Spinzy art",
         directory: "~/spinzy/spinzy-suv-runner.png",
@@ -178,7 +178,7 @@ export const files: IFiles = {
   "thats-a-scan": {
     name: "That's a Scan",
     display: {
-      src: "./assets/home/thats-a-scan/readme.md",
+      src: "/assets/home/thats-a-scan/readme.md",
       metaInfo: {
         name: "readme.md",
         directory: "~/thats-a-scan/readme.md",
@@ -188,7 +188,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/thats-a-scan/thats-a-scan-mark.svg",
+      src: "/assets/home/thats-a-scan/thats-a-scan-mark.svg",
       metaInfo: {
         name: "That's a Scan mark",
         directory: "~/thats-a-scan/thats-a-scan-mark.svg",
@@ -207,7 +207,7 @@ export const files: IFiles = {
   retrofolio: {
     name: "Retrofolio",
     display: {
-      src: "./assets/home/retrofolio/readme.md",
+      src: "/assets/home/retrofolio/readme.md",
       metaInfo: {
         name: "readme.md",
         directory: "~/retrofolio/readme.md",
@@ -217,7 +217,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/retrofolio/retrofolio-ui-home.png",
+      src: "/assets/home/retrofolio/retrofolio-ui-home.png",
       metaInfo: {
         name: "Retrofolio UI",
         directory: "~/retrofolio/retrofolio-ui-home.png",
@@ -236,7 +236,7 @@ export const files: IFiles = {
   "3ll": {
     name: "3ll",
     display: {
-      src: "./assets/home/3ll/readme.md",
+      src: "/assets/home/3ll/readme.md",
       metaInfo: {
         name: "readme.md",
         directory: "~/3ll/readme.md",
@@ -246,7 +246,7 @@ export const files: IFiles = {
       },
     },
     image: {
-      src: "./assets/home/3ll/3ll-meta-home.png",
+      src: "/assets/home/3ll/3ll-meta-home.png",
       metaInfo: {
         name: "3ll home",
         directory: "~/3ll/3ll-meta-home.png",

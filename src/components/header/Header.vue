@@ -4,32 +4,19 @@ import { useRoute } from "vue-router";
 
 const route = useRoute();
 
-console.log(route, route.name);
-
 const pageTitle = computed(() => {
+  if (route.path.startsWith("/projects/")) {
+    const projectName = route.path.split("/").pop();
+    return projectName ? projectName.replace("-", " ").toUpperCase() : "Project";
+  }
+
   switch (route.path) {
-    case "/home":
+    case "/":
       return "Patriarxis' Official Site";
     case "/about":
       return "Patriarxis' Official CV";
     case "/projects":
       return "Patriarxis' Official Projects";
-    case "/projects/signet":
-      return "Project Signet";
-    case "/projects/cipher":
-      return "Project Cipher";
-    case "/projects/simplepad":
-      return "Project SimplePad";
-    case "/projects/favigo":
-      return "Project Favigo";
-    case "/projects/spinzy":
-      return "Project Spinzy";
-    case "/projects/thats-a-scan":
-      return "Project That's a Scan";
-    case "/projects/retrofolio":
-      return "Project Retrofolio";
-    case "/projects/3ll":
-      return "Project 3ll";
     default:
       return "Patriarxis' Official Site";
   }

@@ -1,12 +1,24 @@
+import { type IFileExplorer } from "../domain";
 import { files } from "./files";
 
-export const fileExplorer = {
+const parseDate = (date: string) => {
+  const [day, month, year] = date.split("-").map((value) => Number.parseInt(value, 10));
+  return new Date(year, month - 1, day).getTime();
+};
+
+const latestDate = Object.values(files)
+  .map((file) => file.metaInfo.date)
+  .sort((a, b) => parseDate(b) - parseDate(a))[0];
+
+const fileCount = Object.keys(files).length;
+
+export const fileExplorer: IFileExplorer = {
   files: files,
   metaInfo: {
     name: "Projects",
     directory: "~/projects",
     type: "Folder",
-    size: "9KB",
-    date: "27-07-2026",
+    size: `${fileCount} items`,
+    date: latestDate,
   },
 };
